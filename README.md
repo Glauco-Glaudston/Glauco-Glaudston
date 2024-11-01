@@ -1,7 +1,7 @@
 ## 👋 Bem-vindo(a) ao perfil do Glauco-Glaudston 😁
 
 ### 🚀 Sobre mim
-🎓 **Formação**: Especialista em Servidores Windows e Linux, com experiência em Segurança da Informação e Tráfego Pago.
+🎓 **Formação**: It Sênio Analist - Especialista em Servidores Windows e Linux, com experiência em Segurança da Informação e Tráfego Pago.
 
 💼 **Atuação**: Trabalho como Analista de Suporte em TI, DPO e Gerente de Tráfego, com foco em soluções cloud e compliance com LGPD.
 
