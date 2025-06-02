@@ -54,7 +54,10 @@
 ### 🎯 Objetivos de Aprendizado em 2024:
 - [x] Avançar em Cloud (AWS, Azure)
 - [ ] Concluir curso de Desenvolvimento Web sobre a tutela do Mestre Jedi Saulo Castelo
-- [ ] Certificações AWS
+- [x] Certificações AWS - Cloud Practitioner
+- [ ] Certificações AWS - Solutions Architect
+- [ ] Certificação Linux LPI,
+- [ ] Avançar estudo e práticas com Docker, Kubernetes e Ansible
 - [ ] Contribuir com mais projetos open-source
 
 ---
